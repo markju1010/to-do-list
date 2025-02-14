@@ -1,9 +1,9 @@
 :root {
-    --background: #121212; /* Dark background */
-    --primary-color: #1e1e1e; /* Slightly lighter dark color */
-    --secondary-color: #bb86fc; /* Light purple for accents */
-    --accent-color: #03dac6; /* Teal for highlights */
-    --text-color: #e0e0e0; /* Light gray for text */
+    --background: #121212;
+    --primary-color: #1e1e1e; 
+    --secondary-color: #bb86fc; 
+    --accent-color: #03dac6; 
+    --text-color: #e0e0e0; 
 }
 *{
     margin: 0;
